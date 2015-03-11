@@ -1,7 +1,6 @@
 # Package name: colorful-terminal 
 My Colorful Terminal! Tired with plain text terminal on your mac? This package enables coloring terminal in Mac OS X 10.7+
 
-Reference: [Apple SO](http://apple.stackexchange.com/questions/9821/can-i-make-my-mac-os-x-terminal-color-items-according-to-syntax-like-the-ubuntu)
 
 ### Setup
 - Put .profile to your user home directory, e.g., /Users/awsp/.profile
@@ -11,4 +10,7 @@ Reference: [Apple SO](http://apple.stackexchange.com/questions/9821/can-i-make-m
 ### License
 MIT
 
-PS: All rights belongs to the original author. This package is a wrapper wrapping up everything to allow easy access only. 
+### Notes
+PS: All rights belongs to the original author. This package is a wrapper wrapping up everything to allow easy access only.
+
+Reference: [Apple SO](http://apple.stackexchange.com/questions/9821/can-i-make-my-mac-os-x-terminal-color-items-according-to-syntax-like-the-ubuntu) 
